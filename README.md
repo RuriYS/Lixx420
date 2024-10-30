@@ -12,6 +12,6 @@ Full stack | Web scraping | Software development
 
 <sub>Most of my repositories are private.</sub>
 
-![](https://skillicons.dev/icons?i=c,cs,css,java,js,ts,html,kotlin,php,py)
+![](https://skillicons.dev/icons?i=c,cs,css,go,java,js,ts,html,kotlin,php,py)
 ![](https://skillicons.dev/icons?i=mysql,redis,docker,gcp,laravel)
 ![](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows)
