@@ -1,17 +1,18 @@
-## ✨ I'm Ruri
+## ✨ Hii, I'm Ruri~
 
-Full stack | Web scraping | Software development
+Full stack | Software developer
 
 ### Projects
 
 - [Animest](https://github.com/RuriYS/Animest) - Anime library / scraper
 - [FBDL](https://github.com/RuriYS/FBDL) - Scraper and downloader for Facebook (Discontinued)
-- [Pterodactyl Panel](https://github.com/RuriYS/panel) - Fork of [Pterodactyl/panel](https://github.com/pterodactyl/panel)
+- [Pterodactyl](https://github.com/RuriYS/panel) - Fork of [Pterodactyl/panel](https://github.com/pterodactyl/panel)
 - [Sulfur](https://github.com/RuriYS/Sulfur) - Lightning fast media scraper and downloader for Meta platforms
 - [Timeline](https://github.com/RuriYS/Timeline) - Discord event logger bot
 
-<sub>Most of my repositories are private.</sub>
+<sub>All these repositories are probably private</sub>
 
-![](https://skillicons.dev/icons?i=c,cs,css,go,java,js,ts,html,kotlin,php,py)
-![](https://skillicons.dev/icons?i=mysql,redis,docker,gcp,laravel)
-![](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruriys&show_icons=true&hide_border=true&theme=transparent&hide_title=true&layout=donut"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruriys&show_icons=true&hide_border=true&theme=transparent&hide_title=true&include_all_commits=true&show=prs_merged"></img>
+
+![!](https://skillicons.dev/icons?i=c,cs,css,go,java,js,ts,html,kotlin,php,py)
