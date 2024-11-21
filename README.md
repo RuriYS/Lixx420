@@ -12,7 +12,7 @@ Full stack | Software developer
 
 <sub>All these repositories are probably private</sub>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruriys&show_icons=true&hide_border=true&theme=transparent&hide_title=true&layout=donut"></img>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruriys&show_icons=true&hide_border=true&theme=transparent&hide_title=true&include_all_commits=true&show=prs_merged"></img>
+<img align="center" src="https://grs-ruri.vercel.app/api/top-langs/?username=ruriys&show_icons=true&hide_border=true&theme=transparent&hide_title=true&layout=donut"></img>
+<img align="center" src="https://grs-ruri.vercel.app/api?username=ruriys&show_icons=true&hide_border=true&theme=transparent&hide_title=true&show=prs_merged&hide_rank=true"></img>
 
 ![!](https://skillicons.dev/icons?i=c,cs,css,go,java,js,ts,html,kotlin,php,py)
